@@ -1,1 +1,0 @@
-A simple Tic Tac Toe program, uploaded to Heroku webhosting and accessed from Facebook as a application.
